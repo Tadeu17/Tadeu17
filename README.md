@@ -19,7 +19,7 @@ Hi, I'm Tadeu 👋
 
 ---
 
-I'm Frontend Engineer / Product owner who works remotely but spend a good chunk of my time in Portugal
+I'm a Frontend Engineer / Product owner who works remotely but spend a good chunk of my time in Portugal
 - ❤️ Enjoying building interesting projects and causing an impact in the end user and enjoying fostering good environment in the teams I'm in as well as team growth
 - 😎 Open to project opportunities if the project sounds cool.
 - 🏢 Previously at Mammoth Analytics, Betmarkets, Jumia & others
